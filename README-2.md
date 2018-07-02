@@ -9,7 +9,7 @@
 * 毕业院校：沈阳工业大学(2015.9~2019.7)
 * 学&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;历：本科
 * Github：https://github.com/hongBUG
-* 期望职位：java web开发/java后端开发
+* 期望职位：java web开发&nbsp;/&nbsp;java后端开发
 *
 * 手&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;机：18640204398
 * 微&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;信：XL\_745146218
@@ -35,12 +35,17 @@
 
 * [会议管理系统](https://github.com/hongBUG/MeetSystemManager)
 
-> **S** 1. 之前一段时间特别迷茫，不知道该学啥，不知道自己会啥，觉得自己啥也不会，甚至一度到了不知道该怎么学的地步，心里特别慌，然后就觉得自己不能这样下去，要找点事情做做。
-> 2. 想找点东西练手。  
-> **T** 1. 练手，让自己有事可做。2. 巩固下自己学过的jsp相关的东西  
-> **A** 对源代码重新撸了一遍。  
-> **R**1. 学会了一些基本的jstl。
-> 2. 了解了简单的Filter， Listener.
+> **S**&nbsp;&nbsp;之前一段时间特别迷茫，要找点事情做做。  
+> **T**&nbsp;&nbsp;1. 练手，让自己有事可做。  
+>&nbsp;&nbsp;&nbsp;&nbsp;2. 巩固下自己学过的jsp相关的东西。    
+> **A**&nbsp;&nbsp;对源代码重新撸了一遍:  
+> &nbsp;&nbsp;&nbsp;&nbsp;1.jQuery、Ajax;  
+> &nbsp;&nbsp;&nbsp;&nbsp;2.jsp;&nbsp;  
+> &nbsp;&nbsp;&nbsp;&nbsp;3.Servlet、Filter、Listener;  
+> &nbsp;&nbsp;&nbsp;&nbsp;4.MySql;&nbsp;  
+> &nbsp;&nbsp;&nbsp;&nbsp;5.JDBC。  
+> **R**&nbsp;&nbsp;1. 学会了一些基本的jstl；  
+> &nbsp;&nbsp;&nbsp;&nbsp;2. 了解了简单的Filter， Listener。
 
 ## 曾获荣誉
 * 2016.10&nbsp;&nbsp;校ACM二等奖
